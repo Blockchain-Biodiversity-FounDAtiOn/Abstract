@@ -18,3 +18,7 @@ The value and interdependence of life and the capacity for and avoidance of unne
 Concludes with an outline of what an EEF might look like in practice, how decentralised consensus would play a key role including in its formation, constitution and adjudication for decision making and information validation and the initial work required to develop it further. A Decentralised Autonomous Organisation (DAO) would operate the EEF and information channels - this secure structure has been pioneered within the blockchain communities.
 
 Some hypothetical thought-experiments are also included in order to bring into focus the issues involved and what the EEF has to be able to manage to succeed.
+Prime Laws for Beings  
+
+This little effort is dedicated to the great efforts of E O Wilson, Sir David Attenborough, Sir Roger Penrose, Satoshi Nakamoto and Noam Chomsky. 
+
